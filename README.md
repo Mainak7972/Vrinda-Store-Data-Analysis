@@ -15,4 +15,4 @@ Relation between age and gender based on number of orders.
 Which Channel is contributing maximum to the sales?
 Highest selling category?
 Percentage of Total Orders delivered
-Dashboard Interaction - <a href=""</a>
+Dashboard Interaction - <a href="https://github.com/Mainak7972/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png">View Dashboard</a>
